@@ -24,3 +24,8 @@ body {
   font-weight: bold;
   margin-left: 1rem;
 }
+
+#date-element{
+    font-size: 5rem;
+    font-weight: bold;
+}
